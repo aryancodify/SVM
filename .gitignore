@@ -1,0 +1,9 @@
+*.png
+*.csv
+*.rar
+*.zip
+*.pdf
+SVM/SVM/.ipynb_checkpoints/UpgradCaseStudy-checkpoint.ipynb
+.ipynb_checkpoints/
+*.txt
+*.cpickle
